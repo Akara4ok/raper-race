@@ -9,3 +9,4 @@
 # requirements
 * gcc 11.3.0
 * cmake 3.22.1
+* sfml 2.5.1
